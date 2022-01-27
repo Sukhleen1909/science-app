@@ -1,0 +1,32 @@
+.body_background {
+    background-color: blueviolet;
+    background-position: center;
+    background-size: cover;
+}
+#next_button {
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 50px;
+    width: 90% 
+}
+.label_div2 {
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 50px;
+    width: 90% 
+}
+
+#myCarousel {
+    background-color:cadetblue;
+}
+
+#myCarousel img {
+height: 300px;
+margin-top: 35px;
+}
+.carousel-inner p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+    font-size: 20px;
+}

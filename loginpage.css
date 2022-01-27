@@ -1,0 +1,24 @@
+.body_background {
+    background-image: url("comp.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#user_name {
+  text-align: center;
+    margin-left: 500px;
+    margin-top: 50px;
+    width: 90% 
+    
+}
+.label_div {
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 50px;
+    width: 90%
+}
+#login_button {
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 50px;
+    width: 90%
+}
